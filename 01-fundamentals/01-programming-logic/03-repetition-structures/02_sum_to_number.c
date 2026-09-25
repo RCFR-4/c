@@ -4,18 +4,18 @@
 
 int main()
 {
-    int n, soma;
+    int n, sum;
 
     printf("Enter a positive integer: ");
     scanf("%d", &n);
 
-    soma = 0;
+    sum = 0;
 
     for (int i = 1; i <= n; i++)
     {
-        soma = soma + i;
+        sum = sum + i;
     }
 
-    printf("\nThe sum of the numbers up to the entered number is: %d\n", soma);
+    printf("\nThe sum of the numbers up to the entered number is: %d\n", sum);
     return 0;
 }
