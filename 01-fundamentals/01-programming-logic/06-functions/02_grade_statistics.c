@@ -1,5 +1,4 @@
-// Read five student grades, calculate the class average using a function,
-// and display how many students scored at or above the average.
+// Read five student grades, calculate the class average using a function, and count how many students scored at or above the average.
 
 #include <stdio.h>
 
