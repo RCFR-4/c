@@ -1,13 +1,12 @@
 # C
 
-Programming fundamentals, exercises, and small projects in C.
+Programming fundamentals and exercises in C.
 
 ## Objective
 
-This repository documents my progress in C through organized practice and small practical applications.
+This repository documents my progress in C through organized exercises, focusing on programming logic and data structures.
 
 ## Structure
 
-- `01-fundamentals`: programming fundamentals and basic language practice
-- `02-data-structures`: data structures implemented in C
-- `03-projects`: small projects developed in C
+- `01-programming-logic`: programming fundamentals and language practice.
+- `02-data-structures`: data structures implemented in C (planned).
